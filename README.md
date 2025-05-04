@@ -69,6 +69,11 @@ A comprehensive machine learning workflow for computational drug discovery using
 - **Tech Stack**: Python, Jupyter Notebooks, scikit-learn, ChEMBL API
 - **Features**: Data retrieval, EDA, molecular descriptor calculation, regression modeling, model comparison
 
+#### [Bioactivity Prediction App for Acetylcholinesterase](https://github.com/zeineb-eya/bioactivity-prediction-app)
+Web application for predicting bioactivity of chemical compounds against Acetylcholinesterase, a key drug target for Alzheimer's disease treatment.
+- **Tech Stack**: Python, Streamlit, scikit-learn, PaDEL-Descriptor, Pandas
+- **Features**: SMILES input processing, molecular descriptor calculation, ML-based prediction, interactive UI, results export
+
 #### [InsightFlow: Online Retail Data Pipeline](https://github.com/zeineb-eya/retail)
 End-to-end data engineering pipeline for processing and analyzing online retail data with automated quality checks.
 - **Tech Stack**: Apache Airflow, Docker, Google Cloud Storage, BigQuery, dbt, Soda
