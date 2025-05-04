@@ -31,6 +31,7 @@ Computer Science Engineer and Business Intelligence Analyst with expertise in da
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 
 #### Data & BI
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black)
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=flat&logo=microsoft&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
@@ -72,6 +73,11 @@ A comprehensive machine learning workflow for computational drug discovery using
 End-to-end data engineering pipeline for processing and analyzing online retail data with automated quality checks.
 - **Tech Stack**: Apache Airflow, Docker, Google Cloud Storage, BigQuery, dbt, Soda
 - **Features**: Data ingestion, quality checks, data modeling, business reporting
+- 
+#### [Coffee Shop Sales Analytics Dashboard](https://github.com/zeineb-eya/coffee-shop-sales-analysis)
+A comprehensive Excel-based analytics dashboard for coffee shop sales data with multi-dimensional analysis and visualization.
+- **Tech Stack**: Microsoft Excel, Pivot Tables, Excel Charts, Data Transformation
+- **Features**: Revenue tracking by month, product category analysis, location-based performance, hourly sales patterns, interactive filtering
 
 #### [DevOps Pipeline for Spring Boot](https://github.com/moueffek/Devops23/tree/feat/initiation_kaddem_devops_project)
 Robust CI/CD pipeline for automating build, test, and deployment processes for Spring Boot applications.
@@ -83,7 +89,7 @@ Business intelligence dashboard analyzing sustainable development indicators and
 - **Tech Stack**: Power BI, Talend, SQL, Data Mining algorithms
 - **Features**: Interactive visualizations, multi-source data integration, predictive analytics
 
-#### [Dynamics CRM for Real Estate]
+#### Dynamics CRM for Real Estate
 Custom CRM solution for real estate management with automated workflows and business process flows.
 - **Tech Stack**: Microsoft Dynamics 365, JavaScript, Business Process Flows
 - **Features**: Custom entity modeling, dynamic form behaviors, process automation
