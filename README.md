@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeineb-eya-rahmani-1a453b156/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zeineb.eya.rahmani@outlook.com)
-
+[![GitHub followers](https://img.shields.io/github/followers/zeineb-eya?style=for-the-badge&logo=github)](https://github.com/zeineb-eya?tab=followers)
 ### About Me
 
 Computer Science Engineer and Business Intelligence Analyst with expertise in data engineering and quality assurance. I build robust data pipelines, design interactive dashboards, and implement comprehensive testing frameworks. Passionate about leveraging data to drive business decisions and ensure software quality. Based in Tunis, Tunisia.
@@ -58,8 +58,8 @@ Computer Science Engineer and Business Intelligence Analyst with expertise in da
 
 ### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=zeineb-eya&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zeineb-eya&layout=compact&theme=radical)
 
 ### 🔥 Featured Projects
 
@@ -107,4 +107,4 @@ Multi-platform application supporting web, mobile, and desktop interfaces from a
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blueviolet)
+![Profile views](https://komarev.com/ghpvc/?username=zeineb-eya&color=blueviolet)
