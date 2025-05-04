@@ -63,35 +63,30 @@ Computer Science Engineer and Business Intelligence Analyst with expertise in da
 
 ### 🔥 Featured Projects
 
-#### [Machine Learning for Computational Drug Discovery](https://github.com/yourusername/ML-CDD)
+#### [Machine Learning for Computational Drug Discovery](https://github.com/zeineb-eya/Drug-Discovery)
 A comprehensive machine learning workflow for computational drug discovery using ChEMBL data, applying ML techniques to predict bioactivity of chemical compounds.
 - **Tech Stack**: Python, Jupyter Notebooks, scikit-learn, ChEMBL API
 - **Features**: Data retrieval, EDA, molecular descriptor calculation, regression modeling, model comparison
 
-#### [InsightFlow: Online Retail Data Pipeline](https://github.com/yourusername/InsightFlow)
+#### [InsightFlow: Online Retail Data Pipeline](https://github.com/zeineb-eya/retail)
 End-to-end data engineering pipeline for processing and analyzing online retail data with automated quality checks.
 - **Tech Stack**: Apache Airflow, Docker, Google Cloud Storage, BigQuery, dbt, Soda
 - **Features**: Data ingestion, quality checks, data modeling, business reporting
 
-#### [DevOps Pipeline for Spring Boot](https://github.com/yourusername/springboot-devops)
+#### [DevOps Pipeline for Spring Boot](https://github.com/moueffek/Devops23/tree/feat/initiation_kaddem_devops_project)
 Robust CI/CD pipeline for automating build, test, and deployment processes for Spring Boot applications.
 - **Tech Stack**: Jenkins, Git, JUnit, SonarQube, Nexus, Docker, Docker Compose, Prometheus, Grafana
 - **Features**: Continuous integration, automated testing, code analysis, containerization, monitoring
 
-#### [World Development Indicators Dashboard](https://github.com/yourusername/WDI-Dashboard)
+#### [World Development Indicators Dashboard](https://github.com/zeineb-eya/sustainable-development-goals)
 Business intelligence dashboard analyzing sustainable development indicators and COVID-19 impacts across multiple dimensions.
 - **Tech Stack**: Power BI, Talend, SQL, Data Mining algorithms
 - **Features**: Interactive visualizations, multi-source data integration, predictive analytics
 
-#### [Dynamics CRM for Real Estate](https://github.com/yourusername/realestate-crm)
+#### [Dynamics CRM for Real Estate]
 Custom CRM solution for real estate management with automated workflows and business process flows.
 - **Tech Stack**: Microsoft Dynamics 365, JavaScript, Business Process Flows
 - **Features**: Custom entity modeling, dynamic form behaviors, process automation
-
-#### [Celestial: Tribrid Application](https://github.com/yourusername/celestial-app)
-Multi-platform application supporting web, mobile, and desktop interfaces from a unified codebase.
-- **Tech Stack**: Symfony Framework, CodenameOne, Java, MySQL
-- **Features**: Cross-platform compatibility, shared business logic, responsive design
 
 ### 🌱 Current Focus
 
