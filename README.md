@@ -1,8 +1,8 @@
-## Hi there 👋
+## Hi there 🌸
 
 # Zeineb Eya Rahmani
 
-## 👨‍💻 Computer Science Engineer | Quality Assurance Engineer | Business Intelligence Specialist
+## 👨‍💻 Computer Science Engineer | Quality Assurance Engineer | Business Intelligence Engineer | Business Analyst 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeineb-eya-rahmani-1a453b156/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zeineb.eya.rahmani@outlook.com)
@@ -45,9 +45,23 @@ Computer Science Engineer and Business Intelligence Analyst with expertise in da
 ![SSRS](https://img.shields.io/badge/SSRS-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 
+#### Business Analysis
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-FFD02F?style=flat&logo=miro&logoColor=black)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+![Lucidchart](https://img.shields.io/badge/Lucidchart-F87C00?style=flat&logo=lucidchart&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=flat&logo=clickup&logoColor=white)
+![User Stories](https://img.shields.io/badge/User_Stories-1E90FF?style=flat&logo=data%3Aimage%2Fsvg+xml%3Bbase64%2C&logoColor=white)
+![Process Modelling](https://img.shields.io/badge/Process_Modelling-008080?style=flat&logo=uml&logoColor=white)
+![Requirements Gathering](https://img.shields.io/badge/Requirements_Gathering-32CD32?style=flat)
+
 #### QA & Testing
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+![Allure Report](https://img.shields.io/badge/Allure_Report-FF4785?style=flat&logo=allure&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat&logo=cucumber&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white)
 
 #### Cloud & DevOps
