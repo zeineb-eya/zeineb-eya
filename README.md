@@ -125,10 +125,6 @@ Computer Science Engineer specializing in **Business Intelligence** and **Qualit
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeineb-eya&layout=compact&theme=radical&langs_count=8"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeineb-eya&theme=radical" alt="GitHub Streak"/>
-</p>
-
 ---
 
 ### 🚀 Featured Projects
